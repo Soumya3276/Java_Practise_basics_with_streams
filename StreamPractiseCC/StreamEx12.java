@@ -9,7 +9,7 @@ public class StreamEx12 {
         List<Transaction> trans = Transaction.transList();
     
         trans.stream().collect(Collectors.groupingBy(Transaction::getCategory,
-                                                    Collectors.summingInt(Transaction::getAmount)))
+                                                    Collectors.summingDouble(Transaction::getAmount)))
                                                     .forEach(
                                                         (k,v) ->
                                                         System.out.println(k + " totals :" + v)
