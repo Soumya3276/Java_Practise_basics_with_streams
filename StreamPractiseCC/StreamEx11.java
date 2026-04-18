@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import Models.Employee;
+
 public class StreamEx11 {
     public static void main(String[] args) {
         //Count employees in each department

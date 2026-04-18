@@ -1,4 +1,4 @@
-package StreamPractiseCC;
+package Models;
 
 import java.util.Arrays;
 import java.util.List;
@@ -19,11 +19,11 @@ public class Employee {
             new Employee("Karan", "Sales", 45000),
             new Employee("Riya", "HR", 65000),
             new Employee("Ravi", "Engineering", 80000),
-            new Employee("Sneha", "Finance", 70000),
+            new Employee("Sneha", "Finance", 170000),
             new Employee("Vikram", "Marketing", 68000),
             new Employee("Anjali", "IT", 68000),
             new Employee("Meera", "Operations", 55000),
-            new Employee("Arjun", "Engineering", 75000),
+            new Employee("Arjun", "Engineering", 175000),
             new Employee("Rahul", "Engineering", 72000),
             new Employee("Simran", "HR", 48000),
             new Employee("Amit", "Finance", 62000)

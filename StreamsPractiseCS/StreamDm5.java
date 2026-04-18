@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import StreamPractiseCC.Employee;
+import Models.Employee;
 
 public class StreamDm5 {
     public static void main(String[] args) {

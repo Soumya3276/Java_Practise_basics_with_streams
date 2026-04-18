@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+import Models.Employee;
+
 public class StreamEx14 {
     public static void main(String[] args) {
         //highest paid employee in each department

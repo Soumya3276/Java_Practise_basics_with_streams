@@ -2,6 +2,8 @@ package StreamPractiseCC;
 
 import java.util.List;
 
+import Models.Employee;
+
 public class StreamEx19 {
     public static void main(String[] args) {
         //total combined salary of all the employees, the operation should be very fast.

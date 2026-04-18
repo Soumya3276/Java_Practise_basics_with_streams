@@ -1,4 +1,4 @@
-package StreamPractiseCC;
+package Models;
 
 import java.time.LocalDate;
 import java.util.Arrays;

@@ -4,6 +4,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import Models.Employee;
+
 public class StreamEx9 {
     public static void main(String[] args) {
         

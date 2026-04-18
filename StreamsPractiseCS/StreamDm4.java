@@ -2,6 +2,8 @@ package StreamsPractiseCS;
 
 import java.util.List;
 
+import Models.Person;
+
 public class StreamDm4 {
     public static void main(String[] args) {
 

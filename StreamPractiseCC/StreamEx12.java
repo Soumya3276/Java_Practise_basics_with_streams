@@ -3,6 +3,8 @@ package StreamPractiseCC;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import Models.Transaction;
+
 public class StreamEx12 {
     //Total transaction per category
     public static void main(String[] args) {
