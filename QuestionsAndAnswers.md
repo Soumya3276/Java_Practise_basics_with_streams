@@ -692,11 +692,11 @@ static void cross(){
 ### File: Patterns/PatternDemo10.java
 **Question:** Print hollow hourglass pattern (cross with borders)
 ```
-*   *
-** **
-*   *
-** **
-*   *
+*****
+ * * 
+  *  
+ * * 
+*****
 ```
 **Answer:** 
 ```java
