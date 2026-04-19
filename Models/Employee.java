@@ -8,6 +8,15 @@ public class Employee {
     private String department;
     private double salary;
 
+    Employee(){}
+
+
+    public static Employee getEmp(){
+        return new Employee();
+    }
+
+    
+
     Employee(String name, String department, double salary){
         this.name = name;
         this.department = department;
